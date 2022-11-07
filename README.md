@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel Kejov</h1>
 <h3 align="center">I'm a student at SoftUni. I'm learning Java with Spring framework, JS, MySQL. And I have little knowledge of HTML 5 and CSS 3.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelkejov&label=Profile%20views&color=0e75b6&style=flat" alt="angelkejov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelkejov" alt="angelkejov" /></a> </p>
-
 - 🔭 I’m currently working on [Cookbook](https://github.com/angelkejov/CookbookApp)
 
 - 🌱 I’m currently learning **Spring, JS**

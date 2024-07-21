@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **How to pull up a girl :)**
 
-- 📫 How to reach me **kejovangel05@gmail.com**
+- 📫 How to reach me **ani_kejov@abv.bg**
 
 - ⚡ Fun fact **It is physically impossible for pigs to look up into the sky.**
 

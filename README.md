@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Angel Kejov</h1>
-<h3 align="center">I'm a student at SoftUni. I'm learning Java with Spring framework, JS, MySQL. And I have little knowledge of HTML 5 and CSS 3.</h3>
+<h1 align="center">Hi 👋, I'm Angel Kezhov</h1>
+<h3 align="center">Graduated at SoftUni as a Java Web Developer</h3>
 
-- 🔭 I’m currently working on [Cookbook](https://github.com/angelkejov/CookbookApp)
+- 🔭 I’m currently working on upgrading my coding skills.
 
-- 🌱 I’m currently learning **Spring, JS**
+- 🌱 I’m currently learning **DATA STRUCTURES AND ALGOS**
 
 - 💬 Ask me about **How to pull up a girl :)**
 

@@ -12,12 +12,27 @@
 
 ---
 
-### 🌐 Connect with me  
+## 📫 Connect with Me
+
 <p align="left">
   <a href="https://instagram.com/a_kejov" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/ani.kejov/" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/angel-kezhov-99b728280/" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/44Sniper/" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/leetcode.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ani_kejov" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
 </p>
+
+📧 **ani_kejov@abv.bg**
 
 ---
 
@@ -42,7 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angelkejov&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=angelkejov&theme=tokyonight" />
 </p>
 
 <p align="center">
